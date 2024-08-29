@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/975ea917-774f-487d-aff0-a24c22b8c247
+
 # IB Diploma Business Management Case Study Generator
 
 ## Overview
